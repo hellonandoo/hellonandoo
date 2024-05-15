@@ -7,4 +7,4 @@
 🔎 Currently learning about ReactJS and Python <br/>
 
 <!-- Github Stats -->
-![Nando's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandatsaqif&show_icons=true&theme=radical)
+
