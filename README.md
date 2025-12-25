@@ -2,7 +2,7 @@
 
 <div align="center">
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Welcome+to+my+Digital+Space!+%F0%9F%91%8B;Building+Amazing+Web+Experiences+%F0%9F%9A%80;Learning+React+%26+Python+%F0%9F%93%9A;Open+to+Collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Welcome+to+my+Digital+Space!+%F0%9F%91%8B" alt="Typing SVG" />
 
 <br>
 
@@ -33,43 +33,7 @@
 - 💡 Passionate about creating **user-friendly web experiences**
 - 📝 Occasionally writing on [Medium](https://medium.com/@fernandatsaqif)
 - 💬 Ask me about **HTML, CSS, JavaScript, React, PHP, Python**
-- 📫 Reach me at: **fernandatsaqif@gmail.com**
-- ⚡ Fun fact: **I debug with console.log() 😄**
-
-<br>
-
-```javascript
-class Fernanda {
-    constructor() {
-        this.name = "Fernanda Tsaqif";
-        this.role = "Web Developer";
-        this.location = "Indonesia 🇮🇩";
-        this.education = "Information System - UINSA";
-        this.workingOn = "Learning Full Stack Development";
-    }
-
-    get techStack() {
-        return {
-            frontend: ["HTML5", "CSS3", "JavaScript", "React", "Bootstrap"],
-            backend: ["PHP", "Python"],
-            tools: ["Git", "VS Code", "Apache"],
-            learning: ["ReactJS", "Python", "Node.js"],
-            databases: ["MySQL"]
-        };
-    }
-
-    get passions() {
-        return ["Coding", "Learning New Tech", "Sharing Knowledge", "Problem Solving"];
-    }
-
-    sayHi() {
-        console.log("Thanks for dropping by! Let's connect and build something amazing together! 🚀");
-    }
-}
-
-const me = new Fernanda();
-me.sayHi();
-```
+- 📫 Reach me at: **f.tsaqif2004@gmail.com**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -140,18 +104,6 @@ me.sayHi();
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hellonandoo&theme=algolia&no-frame=true&no-bg=false&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hellonandoo&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 📝 Latest Blog Posts & Articles
 
 <!-- BLOG-POST-LIST:START -->
@@ -163,32 +115,6 @@ me.sayHi();
 ➡️ [Read more on Medium...](https://medium.com/@fernandatsaqif)
 
 ---
-
-## 🎯 Currently Learning
-
-<div align="center">
-
-```javascript
-const learning = {
-    frontend: ["ReactJS ⚛️", "Advanced JavaScript 🚀"],
-    backend: ["Python 🐍"],
-    focus: "Building modern web applications",
-    goal: "Become a Full Stack Developer",
-    status: "In Progress... 📚"
-};
-```
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hellonandoo&custom_title=Fernanda's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=58a6ff&line=58a6ff&point=FFFFFF&area_color=0D1117&title_color=58a6ff&area=true&hide_border=true" alt="Contribution Graph">
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## � Random Developer Quote
 
