@@ -1,4 +1,4 @@
- <h2>⚡ What's Up!</h2>
+ <h2>⚡Hellooo What's Up!</h2>
 
 Sekarang lagi fokus *scaling things up* dari sisi bisnis, tapi yaa masih tetep aktif *hands-on* ngoding sebagai Web Engineer kok wkwkwk.
 
